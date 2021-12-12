@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segadora.Secvest", "Segadora.Secvest\Segadora.Secvest.csproj", "{289B06B0-10E6-4DD8-ADE5-6AB6ED0B949D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segadora.Secvest.Tests", "Segadora.Secvest.Tests\Segadora.Secvest.Tests.csproj", "{A35C1EE0-0400-4354-A323-580DE0F96DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{289B06B0-10E6-4DD8-ADE5-6AB6ED0B949D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289B06B0-10E6-4DD8-ADE5-6AB6ED0B949D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289B06B0-10E6-4DD8-ADE5-6AB6ED0B949D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289B06B0-10E6-4DD8-ADE5-6AB6ED0B949D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35C1EE0-0400-4354-A323-580DE0F96DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35C1EE0-0400-4354-A323-580DE0F96DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35C1EE0-0400-4354-A323-580DE0F96DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35C1EE0-0400-4354-A323-580DE0F96DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
